@@ -1,0 +1,15 @@
+这是我找的一个简单效果还不错的实现方法
+
+主要就是词袋模型+图最小割的（stoer_wagner方法），你论文字数不够的话可以取参考一下stoer_wagner的最小割算法
+
+
+
+环境搭建：pycharm,python3
+
+	installation 
+	pip install nltk
+	pip install networkx
+	pip install flask
+	pip install numpy
+	
+
